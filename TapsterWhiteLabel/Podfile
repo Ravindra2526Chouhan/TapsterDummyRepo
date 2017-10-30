@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'TapsterWhiteLabel' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for TapsterWhiteLabel
+  pod 'SVProgressHUD'
+  pod 'Alamofire'# '~> 4.3'
+  pod 'AlamofireImage'
+  pod 'NVActivityIndicatorView'
+  pod 'pop', '~> 1.0'
+  pod 'Stripe'
+  pod 'PhoneNumberKit', '~> 1.2'
+  pod 'InfiniteScrolling'
+  pod 'Mixpanel-swift'
+  pod 'ScrollableSegmentedControl'
+  
+end

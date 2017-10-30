@@ -1,0 +1,6 @@
+framework module Pods_TapsterWhiteLabel {
+  umbrella header "Pods-TapsterWhiteLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

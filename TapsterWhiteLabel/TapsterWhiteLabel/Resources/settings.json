@@ -1,0 +1,21 @@
+{
+  "_id": "59e5944fe63f7e6984860c4e",
+  "updatedAt": "2017-10-17T14:32:04.784Z",
+  "createdAt": "2017-10-17T05:25:35.058Z",
+  "merchantId": "",
+  "__v": 0,
+  "stripeTestKey": "pk_test_zvzA4h5rmzsgM7Xj9L7moTIH",
+  "stripePublishKey": "DE89370400440532013000",
+  "status": 10,
+  "appColor": "#DF4661",
+  "splashScreen": "https://postcardapp.s3.amazonaws.com/79cff4d0da458d95559119386c0c5ac7.jpg",
+  "bundleId": "com.tapster.saladsup",
+  "applyMerchantIdDev": "merchant.com.tapster.saladsup",
+  "applyMerchantIdPro": "merchant.com.tapster.saladsup",
+  "logoImage": "https://postcardapp.s3.amazonaws.com/logo.svg.png",
+  "appName": "Salads UP",
+  "vendorGroupName": "Salads UP",
+  "vendorGroupId": "BJPLVGQab",
+  "env": "Development",
+  "mixPanelKey":"9c09ca3cd39c705f7e9d2870b5c83f8e"
+}
